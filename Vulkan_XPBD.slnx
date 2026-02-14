@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Vulkan_XPBD/Vulkan_XPBD.vcxproj" Id="dff7e328-0597-4012-976b-9fda7ee831ca" />
+</Solution>
