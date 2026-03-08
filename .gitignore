@@ -1,9 +1,24 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,c++,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,c++,windows
 
+
+### Cmake ###
+# CMake build directory
+/build/
+/out/
+CMakeSettings.json
+CMakeUserPresets.json
+*.vcxproj
+*.filters
+*.bat
+
 ### Vulkan ###
 # Compiled Shader files
 *.spv
+
+### External Libraries ###
+/external/glfw/
+/external/glm/
 
 ### C++ ###
 # Prerequisites
